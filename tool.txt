@@ -1,7 +1,0 @@
-Git Commands:-
-cd
-pwd
-rm
-cp
-mv
-
