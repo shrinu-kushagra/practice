@@ -1,2 +1,2 @@
-# Practice01
-This is for my personal practice of commands on termux.
+# Practice
+This repo is to practice contirbuting to others repo using termux.
